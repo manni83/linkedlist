@@ -1,0 +1,13 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  }
+}
